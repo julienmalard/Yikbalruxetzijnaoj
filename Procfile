@@ -1,1 +1,0 @@
-web: cd atitya && node index.js
