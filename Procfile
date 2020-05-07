@@ -1,1 +1,1 @@
-web: node server.js
+web: cd atitya && node index.js
