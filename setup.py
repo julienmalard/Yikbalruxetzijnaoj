@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='atitya',
-    version='0',
+    version='0.1.0',
     packages=['ykbl'],
     url='https://github.com/marcoramirez21/Yikbalruxetzijnaoj',
     license='AGPL3+',
